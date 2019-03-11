@@ -15,6 +15,7 @@ public class Test_i_plus_plus {
 		int k = i + ++i * i++;
 		System.out.println("i = " + i);
 		System.out.println("k = " + k);
+		System.out.println("k = " + k);
 	}
 
 }
